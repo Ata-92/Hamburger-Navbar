@@ -26,6 +26,23 @@
     }
   }
 
+  nav {
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    & a {
+      text-decoration: none;
+      transition: all .3s ease-in-out;
+
+      &:hover {
+        color: aqua;
+        font-weight: bold;
+        transition: all .3s ease-in-out;
+      }
+    }
+  }
 }
 
 
