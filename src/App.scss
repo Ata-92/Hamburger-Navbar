@@ -1,0 +1,31 @@
+@import "reset";
+
+.App {
+  background-color: aqua;
+  height: 100vh;
+}
+
+.Navbar {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1vw;
+
+  button {
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+    font-size: xx-large;
+    font-family: cursive;
+    cursor: pointer;
+
+    & span {
+      color: aqua;
+      font-size: x-large;
+    }
+  }
+
+}
+
+
