@@ -19,7 +19,7 @@ const Navbar = () => {
         <a href="career">Career</a>
         <a href="contact">Contact</a>
       </nav>
-      <i class="fas fa-bars" onClick={() => handleClick()}></i>
+      <i class="fas fa-bars" onClick={handleClick}></i>
     </div>
   );
 };
