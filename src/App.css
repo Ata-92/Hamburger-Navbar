@@ -94,5 +94,13 @@
         -ms-flex-align: center;
             align-items: center;
   }
+  .Navbar nav a {
+    display: block;
+    margin-bottom: 3vh;
+  }
+  .Navbar i {
+    display: inline;
+    cursor: pointer;
+  }
 }
 /*# sourceMappingURL=App.css.map */

@@ -68,6 +68,15 @@
       align-items: center;
     }
 
+    nav a {
+      display: block;
+      margin-bottom: 3vh;
+    }
+
+    i {
+      display: inline;
+      cursor: pointer;
+    }
   }
 }
 
