@@ -23,4 +23,49 @@
           align-items: center;
   padding: 1vw;
 }
+
+.Navbar > a {
+  border: none;
+  outline: none;
+  background-color: aliceblue;
+  font-size: xx-large;
+  font-family: cursive;
+  text-decoration: none;
+}
+
+.Navbar > a span {
+  color: aqua;
+  font-size: x-large;
+}
+
+.Navbar nav {
+  width: 50vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.Navbar nav a {
+  text-decoration: none;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.Navbar nav a:hover {
+  color: aqua;
+  font-weight: bold;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.Navbar i {
+  display: none;
+  color: aqua;
+  font-size: xx-large;
+}
 /*# sourceMappingURL=App.css.map */

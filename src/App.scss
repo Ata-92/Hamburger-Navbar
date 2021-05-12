@@ -12,5 +12,43 @@
   align-items: center;
   padding: 1vw;
 
+  & > a {
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+    font-size: xx-large;
+    font-family: cursive;
+    text-decoration: none;
+
+    & span {
+      color: aqua;
+      font-size: x-large;
+    }
+  }
+
+  nav {
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    & a {
+      text-decoration: none;
+      transition: all .3s ease-in-out;
+
+      &:hover {
+        color: aqua;
+        font-weight: bold;
+        transition: all .3s ease-in-out;
+      }
+    }
+  }
+
+  i {
+    display: none;
+    color: aqua;
+    font-size: xx-large;
+  }
+
  }
 
