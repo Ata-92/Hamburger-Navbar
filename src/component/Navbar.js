@@ -13,7 +13,7 @@ const Navbar = () => {
         {String(`<ata/> `)}
         <span>design</span>
       </a>
-      <nav>
+      <nav className={`${hamburger}`}>
         <a href="works">Works</a>
         <a href="about">About</a>
         <a href="career">Career</a>
