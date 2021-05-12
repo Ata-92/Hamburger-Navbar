@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hamburger-Navbar/static/css/main.23a4dd5e.chunk.css",
+    "main.js": "/Hamburger-Navbar/static/js/main.3aee94e9.chunk.js",
+    "main.js.map": "/Hamburger-Navbar/static/js/main.3aee94e9.chunk.js.map",
+    "runtime-main.js": "/Hamburger-Navbar/static/js/runtime-main.7a76bf3f.js",
+    "runtime-main.js.map": "/Hamburger-Navbar/static/js/runtime-main.7a76bf3f.js.map",
+    "static/js/2.877f8674.chunk.js": "/Hamburger-Navbar/static/js/2.877f8674.chunk.js",
+    "static/js/2.877f8674.chunk.js.map": "/Hamburger-Navbar/static/js/2.877f8674.chunk.js.map",
+    "static/js/3.9c8d0dee.chunk.js": "/Hamburger-Navbar/static/js/3.9c8d0dee.chunk.js",
+    "static/js/3.9c8d0dee.chunk.js.map": "/Hamburger-Navbar/static/js/3.9c8d0dee.chunk.js.map",
+    "index.html": "/Hamburger-Navbar/index.html",
+    "static/css/main.23a4dd5e.chunk.css.map": "/Hamburger-Navbar/static/css/main.23a4dd5e.chunk.css.map",
+    "static/js/2.877f8674.chunk.js.LICENSE.txt": "/Hamburger-Navbar/static/js/2.877f8674.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a76bf3f.js",
+    "static/js/2.877f8674.chunk.js",
+    "static/css/main.23a4dd5e.chunk.css",
+    "static/js/main.3aee94e9.chunk.js"
+  ]
+}
