@@ -1,1 +1,16 @@
 @import "reset";
+
+.App {
+  background-color: aqua;
+  height: 100vh;
+}
+
+.Navbar {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1vw;
+
+ }
+

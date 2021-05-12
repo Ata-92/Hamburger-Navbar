@@ -4,4 +4,23 @@
   color: rgba(0, 0, 0, 0.7);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.App {
+  background-color: aqua;
+  height: 100vh;
+}
+
+.Navbar {
+  background-color: aliceblue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1vw;
+}
 /*# sourceMappingURL=App.css.map */
